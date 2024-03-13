@@ -1,5 +1,9 @@
 ### Hi there 👋
+Меня зовут Денис.
+Я начинающий Java-developer
+Прошел обучение в Яндекс.Практикум 2023/24
 
+- 📫 d.dubinin@gmail.com
 <!--
 **ddddubbbb/ddddubbbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
