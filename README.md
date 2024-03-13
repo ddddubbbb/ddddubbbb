@@ -1,6 +1,8 @@
 ### Hi there 👋
 Меня зовут Денис.
-Я начинающий Java-developer
+
+Я начинающий Java-developer.
+
 Прошел обучение в Яндекс.Практикум 2023/24
 
 - 📫 d.dubinin@gmail.com
