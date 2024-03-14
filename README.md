@@ -25,6 +25,8 @@
 
 
 - 📫 d.dubinin@gmail.com
+
+![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=00cf00)
 <!--
 **ddddubbbb/ddddubbbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
