@@ -11,6 +11,12 @@
     		╦ ╦╦  ╔╦╗╦ ╦╔═╗╦═╗╔═╗  
 			╠═╣║   ║ ╠═╣║╣ ╠╦╝║╣   
 			╩ ╩╩   ╩ ╩ ╩╚═╝╩╚═╚═╝
+
+
+
+
+
+![](https://github.com/ddddubbbb/ddddubbbb/blob/main/banner.png)
 ### Мой стек:
 
 <img title="Java" height="50" src="images/java-svgrepo-com.svg">&nbsp;
