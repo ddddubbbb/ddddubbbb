@@ -27,16 +27,21 @@ Star Wars, Fallout, крафтовое пиво, космос, дачу.
 
 ### Образование:
  * диплом о высшем образовании 2001/06 Брянского государственного инженерно-технологического университета по специальности:
-                                        «инженерная защита окружающей среды»;
+
+     			«инженерная защита окружающей среды»;
 
 * диплом о профессиональной переподготовке Yandex Practicum 2023/24 по специальности: 
-                                                                         Java-developer. 
+
+ 				  Java-developer. 
 
 
 ### Ссылки:
-https://t.me/oldstarwars
-https://t.me/pa_hoppy_12
-https://t.me/dendubden
+	https://t.me/oldstarwars
+
+	https://t.me/pa_hoppy_12
+
+	https://t.me/dendubden
+
 
 
 
