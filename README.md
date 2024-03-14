@@ -18,7 +18,8 @@
 
 
 ### Обо мне:
-Меня зовут Денис. Я живу в России, в Москве.
+Меня зовут Денис. 
+Я живу в России, в Москве.
 Работаю инженером по охране окружающей среды, варю пиво, ращу детей, воспитываю собаку, играю на гитаре, изучаю Java. 
 
 
@@ -40,7 +41,31 @@ https://t.me/pa_hoppy_12
 
 https://t.me/dendubden
 
+<details> <summary> IN ENGLISH </summary>  
+### About me:
+My name is Denis. 
+I live in Russia, in Moscow.
+I work as an environmental engineer, brew beer, raise children, walk my dog, play guitar, study Java. 
 
+### Love:
+Star Wars, Fallout, craft beer,  cosmic space, dacha, drive a car, coding.
+
+### Education:
+ * Diploma of Higher Education 2001/06 Bryansk State University of Engineering and Technology, specialty:
+	* `Engineering environmental protection`
+
+* diploma of professional retraining Yandex Practicum 2023/24 in the specialty:
+	 * `Java-developer` 
+
+
+### Links:
+https://t.me/oldstarwars
+
+https://t.me/pa_hoppy_12
+
+https://t.me/dendubden
+
+</details>
 
 
                                             ╔═╗┌─┐┌─┐  ┬ ┬┌─┐┬
