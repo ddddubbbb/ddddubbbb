@@ -57,7 +57,7 @@ Star Wars, Fallout, craft beer,  cosmic space, dacha, drive a car, coding.
  * Diploma of Higher Education in Bryansk State University of Engineering and Technology (2001-2006), specialty:
 	* `Environmental engineering science`
 
-* diploma of professional retraining Yandex Practicum (2023-2024), specialty:
+* diploma of professional retraining in Yandex Practicum (2023-2024), specialty:
 	 * `Java-developer` 
 
 
