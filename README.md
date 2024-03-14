@@ -36,11 +36,11 @@ Star Wars, Fallout, крафтовое пиво, космос, дачу.
 
 
 ### Ссылки:
-	https://t.me/oldstarwars
+https://t.me/oldstarwars
 
-	https://t.me/pa_hoppy_12
+https://t.me/pa_hoppy_12
 
-	https://t.me/dendubden
+https://t.me/dendubden
 
 
 
