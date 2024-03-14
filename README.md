@@ -26,7 +26,7 @@
 
 - 📫 d.dubinin@gmail.com
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=0000)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=000000)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ddddubbbb&show_icons=true&theme=gotham" alt="ddddubbbb" />
 
