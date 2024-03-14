@@ -26,7 +26,10 @@
 
 - 📫 d.dubinin@gmail.com
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=0000)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ddddubbbb&show_icons=true&theme=gotham" alt="ddddubbbb" />
+
 <!--
 **ddddubbbb/ddddubbbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
