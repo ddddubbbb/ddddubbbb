@@ -27,10 +27,10 @@
 Star Wars, Fallout, крафтовое пиво, космос, дачу, водить машину, кодить.
 
 ### Образование:
- * диплом о высшем образовании 2001/06 Брянского государственного инженерно-технологического университета по специальности:
+ * диплом о высшем образовании 2001-2006 г. Брянского государственного инженерно-технологического университета по специальности:
 	  * `Инженерная защита окружающей среды`
 
-* диплом о профессиональной переподготовке Yandex Practicum 2023/24 по специальности:
+* диплом о профессиональной переподготовке 2023-2024 г. Yandex Practicum по специальности:
 	* `Java-developer` 
 
 
@@ -45,17 +45,19 @@ https://t.me/dendubden
 	
 ### About me:
 My name is Denis. 
+
 I live in Russia, in Moscow.
+
 I work as an environmental engineer, brew beer, raise children, walk my dog, play guitar, study Java. 
 
 ### Love:
 Star Wars, Fallout, craft beer,  cosmic space, dacha, drive a car, coding.
 
 ### Education:
- * Diploma of Higher Education 2001/06 Bryansk State University of Engineering and Technology, specialty:
-	* `Engineering environmental protection`
+ * Diploma of Higher Education in Bryansk State University of Engineering and Technology (2001-2006), specialty:
+	* `Environmental engineering science`
 
-* diploma of professional retraining Yandex Practicum 2023/24 in the specialty:
+* diploma of professional retraining Yandex Practicum (2023-2024), specialty:
 	 * `Java-developer` 
 
 
