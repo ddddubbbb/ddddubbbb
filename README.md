@@ -28,7 +28,10 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=000000)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ddddubbbb&show_icons=true&theme=gotham" alt="ddddubbbb" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddddubbbb&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddddubbbb&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddddubbbb&theme=solarized_dark)
+
 
 <!--
 **ddddubbbb/ddddubbbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
