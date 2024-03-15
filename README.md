@@ -8,7 +8,7 @@
     :: den ddddubbbb:: (-___-)                                           (v.01.04.1984)
 -->
 
-![](https://github.com/ddddubbbb/ddddubbbb/blob/main/banner2.png)
+<p align="center">![](https://github.com/ddddubbbb/ddddubbbb/blob/main/banner2.png)</p>
 
  (づ￣ ³￣)づ.
 
