@@ -46,7 +46,7 @@ https://t.me/dendubden
 <details> <summary> IN ENGLISH </summary>  
 	
 ### About me:
-My name is Denis. 
+My name is Den. 
 
 I live in Russia, in Moscow.
 
