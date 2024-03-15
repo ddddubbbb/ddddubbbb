@@ -77,13 +77,13 @@ https://t.me/dendubden
                                             ╚═╝└─┘└─┘   ┴ ┴ ┴o
 
     				               
-<p align="center"><img src=https://github.com/ddddubbbb/ddddubbbb/blob/main/banner.png)/></p>
+<p align="center"><img src=https://github.com/ddddubbbb/ddddubbbb/blob/main/banner.png/></p>
 
 
 
 
 - 📫 d.dubinin@gmail.com
-- 
+  
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=000000)
 
