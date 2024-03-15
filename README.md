@@ -37,7 +37,9 @@
 
 ### Ссылки:
  https://t.me/oldstarwars
+ 
  https://t.me/pa_hoppy_12
+ 
  https://t.me/dendubden
 
 <details> <summary> IN ENGLISH </summary>  
@@ -75,13 +77,16 @@ https://t.me/dendubden
                                             ╚═╝└─┘└─┘   ┴ ┴ ┴o
 
     				               
-![](https://github.com/ddddubbbb/ddddubbbb/blob/main/banner.png)
+<p align="center"><img src=https://github.com/ddddubbbb/ddddubbbb/blob/main/banner.png)/></p>
+
 
 
 
 - 📫 d.dubinin@gmail.com
+- 
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=000000)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddddubbbb&theme=solarized_dark)
 
