@@ -114,7 +114,7 @@ Star Wars, Fallout, craft beer,  cosmic space, dacha, drive a car, coding.
 - 📫 d.dubinin@gmail.com
   
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=000000)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=black)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddddubbbb&theme=solarized_dark)
