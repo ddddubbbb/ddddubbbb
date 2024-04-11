@@ -44,15 +44,16 @@
   <a href="https://t.me/dendubden">
     <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
+<div id="badges">
+  <a href="https://t.me/oldstarwars">
+    <img src="https://img.shields.io/badge/@oldstarwars-black?logo=telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://t.me/pa_hoppy_12">
+    <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
- https://t.me/oldstarwars
- 
- https://t.me/pa_hoppy_12
- 
- https://t.me/dendubden
 
 <details> <summary> IN ENGLISH </summary>  
 	
