@@ -88,13 +88,13 @@ Star Wars, Fallout, craft beer,  cosmic space, dacha, drive a car, coding.
   </a>
 </div>
 
-`Just for Fun:`
+
 <div id="badges">
   <a href="https://t.me/oldstarwars">
-    <img src="https://img.shields.io/badge/@oldstarwars-black?logo=telegram&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/@oldstarwars-white?logo=telegram&logoColor=black&style=for-the-badge"/>
   </a>
   <a href="https://t.me/pa_hoppy_12">
-    <img src="https://img.shields.io/badge/@pa_hoppy_12-black?logo=telegram&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/@pa_hoppy_12-white?logo=telegram&logoColor=black&style=for-the-badge"/>
   </a>
 </div>
 
