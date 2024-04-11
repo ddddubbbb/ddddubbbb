@@ -36,6 +36,18 @@
 
 
 ### Ссылки:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%B4%D1%83%D0%B1%D0%B8%D0%BD%D0%B8%D0%BD-b79ba4a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUc2yi%2BzsRAqpNK9vn6ZskQ%3D%3D">
+    <img src="https://img.shields.io/badge/linkedin-black?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/dendubden">
+    <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
  https://t.me/oldstarwars
  
  https://t.me/pa_hoppy_12
