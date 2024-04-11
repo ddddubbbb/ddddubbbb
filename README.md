@@ -46,7 +46,7 @@
   </a>
 </div>
 
-`Just for Fun:`
+
 <div id="badges">
   <a href="https://t.me/oldstarwars">
     <img src="https://img.shields.io/badge/@oldstarwars-white?logo=telegram&logoColor=black&style=for-the-badge"/>
