@@ -117,7 +117,7 @@ Star Wars, Fallout, craft beer,  cosmic space, dacha, drive a car, coding.
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ddddubbbb.ddddubbbb&color=black)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddddubbbb&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddddubbbb&theme=black_dark)
 
 <!--
 **ddddubbbb/ddddubbbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
