@@ -45,7 +45,8 @@
     <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
-                     `Just for Fun`
+
+`Just for Fun`
 <div id="badges">
   <a href="https://t.me/oldstarwars">
     <img src="https://img.shields.io/badge/@oldstarwars-black?logo=telegram&logoColor=white&style=for-the-badge"/>
@@ -54,6 +55,7 @@
     <img src="https://img.shields.io/badge/@pa_hoppy_12-black?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
+
 
 
 <details> <summary> IN ENGLISH </summary>  
