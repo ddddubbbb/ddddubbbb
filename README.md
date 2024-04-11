@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/@oldstarwars-white?logo=telegram&logoColor=black&style=for-the-badge"/>
   </a>
   <a href="https://t.me/pa_hoppy_12">
-    <img src="https://img.shields.io/badge/@pa_hoppy_12-grey?logo=telegram&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/@pa_hoppy_12-white?logo=telegram&logoColor=black&style=for-the-badge"/>
   </a>
 </div>
 
